@@ -20,8 +20,8 @@
             android:src="@drawable/splash"/>
         <ProgressBar
             android:layout_width="match_parent"
-            android:layout_height="80dp"
-            android:layout_marginTop="25dp"/>
+            android:layout_height="60dp"
+            android:layout_marginTop="45dp"/>
     </LinearLayout>
 
 </LinearLayout>
